@@ -1,0 +1,19 @@
+[theme]
+# Sunset Analytics Theme
+primaryColor = "#7C3AED"
+backgroundColor = "#FAFAFA"
+secondaryBackgroundColor = "#F5F3FF"
+textColor = "#1E1B4B"
+font = "sans serif"
+
+[server]
+headless = true
+port = 8501
+runOnSave = true
+
+[browser]
+gatherUsageStats = false
+
+[client]
+showSidebarNavigation = true
+toolbarMode = "minimal"
