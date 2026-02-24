@@ -13,7 +13,7 @@ Sales Dashboard to practise using Streamlit.
 
 This Dashboard includes :
 
-- **Dummies Sales data** avec thème Sunset Analytics (violet/rose)
+- **Dummies Sales data**
 - **KPI Cards**
 - **Plotly Charts** 
 - **Filters** (dates, category, regions)
@@ -23,7 +23,7 @@ This Dashboard includes :
 
 ## Requirements
 
-To run this app locally :
+To run this app locally, you should install:
 
 ### 1. Python 3.12
 
