@@ -19,6 +19,12 @@ This Dashboard includes :
 - **Filters** (dates, category, regions)
 - **Tables** 
 
+
+See below some screenshots:
+
+![Page1](assets/github/Screenshot%20Overview.png)
+![Page2](assets/github/Screenshot%20Details.png)
+
 ---
 
 ## Requirements
