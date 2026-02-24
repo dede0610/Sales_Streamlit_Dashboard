@@ -1,6 +1,6 @@
 # Streamlit App
 
-Sales Dashboard to practise using Streamlit.
+Sales Dashboard to practice using Streamlit.
 
 **Skills** : App creation, visualisation
 
